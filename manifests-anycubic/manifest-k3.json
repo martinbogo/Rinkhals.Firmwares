@@ -7,7 +7,7 @@
   "firmwares": [
     {
       "version": "2.2.9.6",
-      "date": 1777494796,
+      "date": 1715615494,
       "changes": "",
       "md5": "7426f0710a99fab8271bdedadf92a6f0",
       "url": "https://rinkhals.firmwareforge.org/firmware/Kobra%203/K3_2.2.9.6.swu",
@@ -36,7 +36,7 @@
     },
     {
       "version": "2.3.3.9",
-      "date": 1777494822,
+      "date": 1726308897,
       "changes": "",
       "md5": "5f2a7cb7a7db62b7fe3ba266531acf30",
       "url": "https://rinkhals.firmwareforge.org/firmware/Kobra%203/K3_2.3.3.9.swu",
@@ -46,7 +46,7 @@
     },
     {
       "version": "2.3.5.3",
-      "date": 1777494832,
+      "date": 1730442976,
       "changes": "",
       "md5": "7767a38d7e373332172069dc028624dc",
       "url": "https://rinkhals.firmwareforge.org/firmware/Kobra%203/K3_2.3.5.3.swu",
@@ -56,7 +56,7 @@
     },
     {
       "version": "2.3.7",
-      "date": 1777494851,
+      "date": 1740752630,
       "changes": "",
       "md5": "2b91d0f856a28f87f33655805492c108",
       "url": "https://rinkhals.firmwareforge.org/firmware/Kobra%203/K3_2.3.7.swu",
@@ -66,7 +66,7 @@
     },
     {
       "version": "2.3.7.1",
-      "date": 1777494841,
+      "date": 1741080843,
       "changes": "",
       "md5": "beae5db7be7e61718691f68f9d49acf8",
       "url": "https://rinkhals.firmwareforge.org/firmware/Kobra%203/K3_2.3.7.1.swu",
